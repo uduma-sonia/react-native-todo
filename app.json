@@ -1,15 +1,16 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "Sonia ToDo",
+    "slug": "sonia-todo",
     "version": "1.0.0",
+    "description": "Just a simple todo app",
     "orientation": "portrait",
     "icon": "./app/assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./app/assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#854620"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,7 +24,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./app/assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#854620"
       }
     },
     "web": {

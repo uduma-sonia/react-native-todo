@@ -32,7 +32,7 @@ export default function TaskListItem(props) {
       </View>
 
       <TouchableOpacity onPress={props.deleteTask}>
-        <AntDesign name="delete" size={18} color="red" />
+        <AntDesign name="delete" size={20} color="red" />
       </TouchableOpacity>
     </View>
   );
